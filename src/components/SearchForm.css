@@ -1,0 +1,7 @@
+.button_submit {
+  border: none;
+  padding: 0.5rem 1rem;
+  background-color: rgb(204, 204, 204);
+  margin-top: 2rem;
+  text-align: center;
+}

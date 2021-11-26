@@ -1,0 +1,9 @@
+[data-theme="dark"] {
+  --primary-bg-color: black;
+  --primary-text-color: white;
+}
+
+[data-theme="light"] {
+  --primary-bg-color: white;
+  --primary-text-color: black;
+}
